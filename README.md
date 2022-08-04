@@ -1,20 +1,10 @@
-💎 Programming: Python
+### Hi there 👋, Itachi
+![](https://i.imgur.com/T6XViH0.png)
 
-Contact me for fixing your broken python bots. ❌ Not Fixing for FREE! It takes valueable time and energy to fix broken python code.
+Fixing Broken Python Codes/Bots.
+❌ Not for FREE!
 
-📫 Discord: Itad0ri#5380
+Skills: Python, Automation
 
-<!--
-**UG6/UG6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C# 
+- 📫 How to reach me: Discord: Itad0ri#5380
