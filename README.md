@@ -1,4 +1,8 @@
-### Hi there 👋
+💎 Programming: Python
+
+Contact me for fixing your broken python bots. ❌ Not Fixing for FREE! It takes valueable time and energy to fix broken python code.
+
+📫 Discord: Itad0ri#5380
 
 <!--
 **UG6/UG6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
