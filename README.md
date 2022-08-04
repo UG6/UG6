@@ -1,4 +1,3 @@
-### Hi there 👋, Itachi
 ![](https://i.imgur.com/T6XViH0.png)
 
 Fixing Broken Python Codes/Bots.
