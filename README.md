@@ -5,5 +5,5 @@ Fixing Broken Python Codes/Bots.
 
 Skills: Python, Automation
 
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C# and Puppeteer
 - 📫 How to reach me: Discord: Itad0ri#5380
